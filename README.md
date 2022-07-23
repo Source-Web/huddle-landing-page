@@ -42,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Huddle Landing Page](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/responsive-nft-product-preview-card-using-css-flex-box-88Fo1Ar5jY)
-- Live Site URL: [Huddle Landing Page](https://source-web.github.io/nft-preview-card/)
+- Solution URL: [Huddle Landing Page](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-using-css-grid-and-flex-OLOU4G324S)
+- Live Site URL: [Huddle Landing Page](https://source-web.github.io/huddle-landing-page/)
 
 ## My process
 
